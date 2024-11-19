@@ -202,6 +202,15 @@ static PhonemeIdMap DEFAULT_PHONEME_ID_MAP = {
     // Czech
     {U'\u031d', {157}},
     {U'\u030a', {158}},
+
+    // Latvian
+    {U'\u0361', {159}},
+    {U'\u0060', {160}},
+
+    // Japanese
+    {U'\u031e', {161}},
+    {U'\u0308', {162}},
+    {U'\u1d5d', {163}},
 };
 
 // language -> phoneme -> [id, ...]
